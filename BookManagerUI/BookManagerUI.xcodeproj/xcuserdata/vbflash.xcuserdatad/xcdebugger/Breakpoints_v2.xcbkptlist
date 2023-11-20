@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C751FCEB-4143-4298-8B82-8C7A85BFD4EC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D702A2E-29C2-453E-BC4B-0117B792C81F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Utils/MenuManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "handleInput(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3D702A2E-29C2-453E-BC4B-0117B792C81F - 7b511b4d0cc369de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookManagerUI.MenuManager.handleInput(Swift.String) -&gt; ()"
+                  moduleName = "BookManagerUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vbflash/DevWorkspace/SwiftStudy/bookmanagerUI/BookManagerUI/Utils/MenuManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1644">
+               </Location>
+               <Location
+                  uuid = "3D702A2E-29C2-453E-BC4B-0117B792C81F - 7b511b4d0cc369de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookManagerUI.MenuManager.handleInput(Swift.String) -&gt; ()"
+                  moduleName = "BookManagerUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vbflash/DevWorkspace/SwiftStudy/bookmanagerUI/BookManagerUI/Utils/MenuManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1268">
+               </Location>
+               <Location
+                  uuid = "3D702A2E-29C2-453E-BC4B-0117B792C81F - 7b511b4d0cc36bce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookManagerUI.MenuManager.handleInput(Swift.String) -&gt; ()"
+                  moduleName = "BookManagerUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vbflash/DevWorkspace/SwiftStudy/bookmanagerUI/BookManagerUI/Utils/MenuManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "1268">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
